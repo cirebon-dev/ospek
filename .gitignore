@@ -1,0 +1,7 @@
+/.idea
+/process.log
+/phpcs-report.txt
+/composer.lock
+/vendor
+/task.php
+/.gitlab-ci.yml
